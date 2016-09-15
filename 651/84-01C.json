@@ -1,0 +1,66 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "3.95 mg", 
+    "commit": "7ecb5bdb289de56c4412597b050c7ac104ef0c75", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "65184", 
+    "increment": 2, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-285", 
+    "irradiation_level": "A", 
+    "irradiation_position": 18, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "GroundmassConcentrate", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "LipmanDulceDikes", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Lipmandulcedikes", 
+    "sample": "15L-55", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-09-14T19:03:06.306273", 
+    "tripped_conditional": null, 
+    "username": "root", 
+    "uuid": "979970b8-200b-4601-9bbf-9e17a183bd4d"
+}
