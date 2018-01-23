@@ -1,0 +1,207 @@
+{
+    "acquisition_software": "Pychron17.7(Exp0.2,DVC0.1)", 
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "analyst_name": "", 
+    "comment": "6.6 mg", 
+    "commit": "ec4de7839be5e56dd6ad20e0cda7ea5440170a30", 
+    "conditionals": [
+        {
+            "analysis_types": null, 
+            "frequency": 10, 
+            "hash_id": 2905392007727580276, 
+            "level": 10, 
+            "location": "setupfiles/spectrometer/default_conditionals.yaml", 
+            "ntrips": 1, 
+            "start_count": 5, 
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ], 
+    "data_reduction_software": "Pychron17.7(DVC0.1)", 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0.0, 
+            "gain": 0
+        }
+    }, 
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor", 
+                "name": "Lab Hum.", 
+                "pub_date": "2018-01-23T12:15:05", 
+                "title": "iServer Hum.", 
+                "value": 10.9
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Hum. 2", 
+                "pub_date": "2018-01-23T12:44:46", 
+                "title": "Base Station Hum.", 
+                "value": 11.8475618362427
+            }
+        ], 
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure", 
+                "name": "Pressure", 
+                "pub_date": "2018-01-23T12:43:10", 
+                "title": "Building", 
+                "value": 99.45
+            }, 
+            {
+                "device": "AirPressure2", 
+                "name": "Pressure2", 
+                "pub_date": "2018-01-23T12:43:24", 
+                "title": "Lab", 
+                "value": 90.12016
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Pressure", 
+                "pub_date": "2018-01-23T12:29:59", 
+                "title": null, 
+                "value": 869.962646484375
+            }, 
+            {
+                "device": "MicroBoneGaugeController", 
+                "name": "JanDecabinPressure", 
+                "pub_date": "2018-01-22T20:28:13", 
+                "title": "Jan Decabin", 
+                "value": 1.7
+            }
+        ], 
+        "lab_temperatures": [
+            {
+                "device": "Coldfinger", 
+                "name": "ColdFinger Temp.", 
+                "pub_date": "2018-01-23T11:48:47", 
+                "title": "Cold Finger", 
+                "value": -196.0
+            }, 
+            {
+                "device": "EnvironmentalMonitor", 
+                "name": "Lab Temp.", 
+                "pub_date": "2018-01-23T12:07:00", 
+                "title": "iServer Temp.", 
+                "value": 73.5
+            }, 
+            {
+                "device": "Chiller", 
+                "name": "Coolant Temp.", 
+                "pub_date": "2018-01-23T11:34:57", 
+                "title": "Coolant", 
+                "value": 18.0
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 2", 
+                "pub_date": "2018-01-23T12:44:54", 
+                "title": "Base Station Temp.", 
+                "value": 81.872834777832
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 3", 
+                "pub_date": "2018-01-23T12:31:34", 
+                "title": "EastDiffuser01", 
+                "value": 60.6866
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 4", 
+                "pub_date": "2018-01-23T12:36:30", 
+                "title": "EastReturn02", 
+                "value": 71.375
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 5", 
+                "pub_date": "2018-01-23T12:39:37", 
+                "title": "iServerCalibration03", 
+                "value": 72.6116
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 6", 
+                "pub_date": "2018-01-23T12:42:12", 
+                "title": "SouthWall04", 
+                "value": 68.7866
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 7", 
+                "pub_date": "2018-01-23T12:31:40", 
+                "title": "SouthWindow05", 
+                "value": 88.475
+            }
+        ]
+    }, 
+    "experiment_queue_name": "CurrentExperiment", 
+    "extraction": "felix_diode.py", 
+    "identifier": "65931", 
+    "increment": 9, 
+    "instrument_name": "", 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-293", 
+    "irradiation_level": "A", 
+    "irradiation_position": 6, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)", 
+            "name": "Ar36"
+        }, 
+        "Ar37": {
+            "detector": "L1", 
+            "name": "Ar37"
+        }, 
+        "Ar38": {
+            "detector": "AX", 
+            "name": "Ar38"
+        }, 
+        "Ar39": {
+            "detector": "H1", 
+            "name": "Ar39"
+        }, 
+        "Ar40": {
+            "detector": "H2", 
+            "name": "Ar40"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Felix", 
+    "material": "GroundmassConcentrate", 
+    "measurement": "felix_analysis400_120_CDD_center.py", 
+    "post_equilibration": "felix_pump_extraction_line.py", 
+    "post_measurement": "felix_pump_ms.py", 
+    "project": "LipmanDulceDikes", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "LipmanDulceDikes", 
+    "sample": "15L-45", 
+    "source": {
+        "emission": 871.504, 
+        "trap": 248.495
+    }, 
+    "spec_sha": "120b1789ad5123a5883f750cf7b1067022fac45a", 
+    "timestamp": "2018-01-23T12:44:59.565008", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "7b551413-3230-4f82-b78c-81d47dee3625", 
+    "whiff_result": null
+}
