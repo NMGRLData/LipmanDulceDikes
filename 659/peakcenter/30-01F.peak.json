@@ -1,0 +1,23 @@
+{
+    "H2": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QHDuSEKEvjlAcO7HQoUnUUBw70dChiHrQHDvxkKGsZhAcPBFQobbU0Bw8MRCh5wVQHDxQ0KH+lRAcPHCQoikNkBw8kFCiMB1QHDywEKItN1AcPM/QokqjUBw875CiSpOQHD0PkKJYhNAcPS9QomD4kBw9TxCiQySQHD1u0KJP2dAcPY6QomuNUBw9rlCihqyQHD3OEKKf01AcPe3QooackBw+DZCiewqQHD4tUKJa9JAcPk1Qok5O0Bw+bRCif4PQHD6M0KJS55AcPqyQokO6kBw+zFCiRxdQHD7sEKI9QJAcPwvQomwL0Bw/K5CielTQHD9LUKJKq1AcP2sQomr3UBw/ixCiXkGQHD+q0KIqsBAcP8qQol+dEBw/6lCiU8SQHEAKEKKNF5AcQCnQombNEBxASZCiQ8KQHEBpUKJladAcQIkQol/MUBxAqNCieKpQHEDI0KJOndAcQOiQok8sEBxBCFCiWegQHEEoEKJbydAcQUfQokOjEBxBZ5CiYGKQHEGHUKJmpZAcQacQonneUBxBxtCiSRiQHEHmkKI66JAcQgaQomSUkBxCJlCiRgrQHEJGEKI5vJAcQmXQoiuVEBxChZCiLiwQHEKlUKISQZAcQsUQoekHUBxC5NChziMQHEMEkKFwWpAcQyRQoV3oUBxDRFChIiUQHENkEKBKe5AcQ4PQn4w9kBxDo5CdeMxQHEPDUJtLnA="
+    }, 
+    "L2(CDD)": {
+        "center_dac": 3.765569675107792, 
+        "center_signal": 0.216258308329561, 
+        "high_dac": 3.7659885127831427, 
+        "high_signal": 0.15995000114694988, 
+        "low_dac": 3.7651508374324414, 
+        "low_signal": 0.15905248302424707, 
+        "points": "QHDuSDsxbaFAcO7HO0ebVkBw70c7vIR/QHDvxjwbP/VAcPBFPDFtrEBw8MQ8gkyPQHDxQzyS7tpAcPHCPOulx0Bw8kE9DsZZQHDywD1E1eBAcPM/PUebmUBw8749h9gvQHD0Pj2XF6pAcPS9Pae6BEBw9Tw9wK2PQHD1uz3MdedAcPY6Pfa9SkBw9rk+AZuLQHD3OD4gGqJAcPe3PhnduUBw+DY+Ii7wQHD4tT41PmVAcPk1Pj0250Bw+bQ+LDu9QHD6Mz48LMBAcPqyPkbrAUBw+zE+SP9QQHD7sD5BX4RAcPwvPkwdxkBw/K4+TB3GQHD9LT5JsL9AcP2sPl0Y+EBw/iw+UalEQHD+qz5IpphAcP8qPkoJd0Bw/6k+VSByQHEAKD5Y8FlAcQCnPk0n7kBxASY+SrrnQHEBpT5VeSpAcQIkPllJEUBxAqM+VSByQHEDIz5IpphAcQOiPkaSSUBxBCE+PpnGQHEEoD4uqMNAcQUfPjZIjEBxBZ4+MRXJQHEGHT4faTNAcQacPhxKvkBxBxs+BycDQHEHmj3/Dn1AcQgaPe5sGEBxCJk9zSdWQHEJGD3BXv1AcQmXPZZmPEBxChY9eYKWQHEKlT1nfWRAcQsUPVQVV0BxC5M9Eu7tQHEMEj0S7u1AcQyRPOCO6UBxDRE8ymEsQHENkDy/Sk9AcQ4PPMebdUBxDo48lbSRQHEPDTxHm2M="
+    }, 
+    "fmt": ">ff", 
+    "reference_detector": "L2(CDD)", 
+    "reference_isotope": "Ar36"
+}
