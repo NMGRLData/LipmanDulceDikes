@@ -1,47 +1,59 @@
 {
     "AX": {
-        "error": 0.0039275863903997085, 
+        "error": 0.003927586408816263, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.08078696803005427
+        "fit": "Average", 
+        "fn": 113, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.08078696794083663
     }, 
     "H1": {
-        "error": 0.011530185465796518, 
+        "error": 0.01153018541586562, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.03393562257866823
+        "fit": "Average", 
+        "fn": 116, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.0339356220130616
     }, 
     "H2": {
-        "error": 0.008815660380394866, 
+        "error": 0.008815660372343341, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.07149255652265951
+        "fit": "Average", 
+        "fn": 114, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.0714925564805111
     }, 
     "L1": {
-        "error": 0.009821718120375649, 
+        "error": 0.0098217182069649, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.1959695451707611
+        "fit": "Average", 
+        "fn": 112, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.19596954623037682
     }, 
     "L2(CDD)": {
         "error": 0.0, 

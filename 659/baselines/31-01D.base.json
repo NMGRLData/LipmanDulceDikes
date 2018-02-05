@@ -1,47 +1,59 @@
 {
     "AX": {
-        "error": 0.0037583547542665748, 
+        "error": 0.0037583547556668873, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.06436262135843009
+        "fit": "Average", 
+        "fn": 115, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.06436262126409692
     }, 
     "H1": {
-        "error": 0.010236467701245443, 
+        "error": 0.010236467697426645, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.039312630235860166
+        "fit": "Average", 
+        "fn": 115, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.03931263003538808
     }, 
     "H2": {
-        "error": 0.009425857393229816, 
+        "error": 0.009425857414864434, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.008365898090264756
+        "fit": "Average", 
+        "fn": 114, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.008365898213365622
     }, 
     "L1": {
-        "error": 0.009611116574710256, 
+        "error": 0.009611116464858328, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.16018528274127095
+        "fit": "Average", 
+        "fn": 115, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.1601852817096464
     }, 
     "L2(CDD)": {
         "error": 0.0, 
