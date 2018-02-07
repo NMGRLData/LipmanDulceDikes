@@ -1,47 +1,59 @@
 {
     "AX": {
-        "error": 0.0035584152158651566, 
+        "error": 0.0035584152607510693, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.0816398217425252
+        "fit": "Average", 
+        "fn": 113, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.08163982167153874
     }, 
     "H1": {
-        "error": 0.012487899160710528, 
+        "error": 0.012487899049517744, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.04056430801042645
+        "fit": "Average", 
+        "fn": 116, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.04056430807345193
     }, 
     "H2": {
-        "error": 0.00894808479633977, 
+        "error": 0.008948084804552774, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.07329046342066713
+        "fit": "Average", 
+        "fn": 118, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.07329046362811222
     }, 
     "L1": {
-        "error": 0.010180583265650685, 
+        "error": 0.010180583302952925, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.20194707515752544
+        "fit": "Average", 
+        "fn": 112, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.20194707585116184
     }, 
     "L2(CDD)": {
         "error": 0.0, 

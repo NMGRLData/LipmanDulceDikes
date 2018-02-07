@@ -1,47 +1,59 @@
 {
     "AX": {
-        "error": 0.0037622106961042678, 
+        "error": 0.0037622107049567087, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.07391712360009467
+        "fit": "Average", 
+        "fn": 114, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.07391712366064128
     }, 
     "H1": {
-        "error": 0.011498250986305619, 
+        "error": 0.011498250968642964, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.03981449032742254
+        "fit": "Average", 
+        "fn": 114, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.0398144902203951
     }, 
     "H2": {
-        "error": 0.009761204988695331, 
+        "error": 0.009761205004484299, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.0008890075890235148
+        "fit": "Average", 
+        "fn": 115, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.0008890073867919652
     }, 
     "L1": {
-        "error": 0.012218728518245917, 
+        "error": 0.012218728504631168, 
         "error_type": "SEM", 
         "filter_outliers_dict": {
             "filter_outliers": true, 
             "iterations": 1, 
             "std_devs": 2
         }, 
-        "fit": "average", 
-        "value": -0.15115586945607726
+        "fit": "Average", 
+        "fn": 118, 
+        "include_baseline_error": false, 
+        "n": 120, 
+        "value": -0.15115586923577395
     }, 
     "L2(CDD)": {
         "error": 0.0, 
