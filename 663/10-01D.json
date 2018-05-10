@@ -193,7 +193,7 @@
     "project": "LipmanDulceDikes",
     "queue_conditionals_name": "",
     "repository_identifier": "LipmanDulceDikes",
-    "sample": "15L-50",
+    "sample": "16L-50",
     "source": {
         "emission": 853.865,
         "trap": 248.831
